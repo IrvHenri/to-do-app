@@ -16,7 +16,7 @@ https://todo-react-app-ih.herokuapp.com/
  - How to implement condtional rendering when an todo is completed
  - Filtering through an array with an id and returning a new array  
  - How to return new object within a function based component via the spread operator
- - How to implement multiple useEffect hooks to execute component tasks after a rerender
+ - How to implement multiple useEffect hooks to execute component functions after a rerender
  
 
 ## Tech Stack
