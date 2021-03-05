@@ -1,3 +1,32 @@
+# Todo React App
+
+A todo list with a filter feature.
+
+## Demo
+
+
+
+### Preview - Main Form
+<img width="604" alt="todo list" src="https://user-images.githubusercontent.com/69181038/110134953-f80df800-7d9b-11eb-8ed4-a6923d098d59.jpg">
+
+
+
+## Motivation
+ I wanted to apply my knowledge of React hooks to manage state within an app. The useState, useContext and useEffect hooks allowed me to seamlessly manage state which came in handy when I needed to share state between sibling components (modal and main form components).   
+ 
+
+## Tech Stack
+
+- CSS
+- React
+
+
+## License
+MIT © [Irving Henriquez](https://github.com/IrvHenri)
+
+
+
+
 ### React README
 
 
