@@ -1,18 +1,22 @@
 # Todo React App
 
-A todo list with a filter feature.
+A todo list with a filter and local storage feature.
 
 ## Demo
+https://todo-react-app-ih.herokuapp.com/
 
-
-
-### Preview - Main Form
+### Preview
 <img width="604" alt="todo list" src="https://user-images.githubusercontent.com/69181038/110134953-f80df800-7d9b-11eb-8ed4-a6923d098d59.jpg">
 
 
 
-## Motivation
- I wanted to apply my knowledge of React hooks to manage state within an app. The useState, useContext and useEffect hooks allowed me to seamlessly manage state which came in handy when I needed to share state between sibling components (modal and main form components).   
+## What I Learned
+
+ - How to share state within an app via props
+ - How to implement condtional rendering when an todo is completed
+ - Filtering through an array with an id and returning a new array  
+ - How to return new object within a function based component via the spread operator
+ - How to implement multiple useEffect hooks to manage component tasks after a rerender
  
 
 ## Tech Stack
