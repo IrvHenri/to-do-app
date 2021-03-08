@@ -1,4 +1,4 @@
-# Todo React App
+# To-do List
 
 A todo list with a filter and local storage feature.
 
