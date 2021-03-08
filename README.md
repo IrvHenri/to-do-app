@@ -1,6 +1,6 @@
 # To-do List
 
-A todo list with a filter and local storage feature.
+A to-do list with a filter and local storage feature.
 
 ## Demo
 https://todo-react-app-ih.herokuapp.com/
