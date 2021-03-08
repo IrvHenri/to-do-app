@@ -1,3 +1,43 @@
+# To-do List
+
+A to-do list with a filter and local storage feature.
+
+## Demo
+https://todo-react-app-ih.herokuapp.com/
+
+### Preview
+<img width="604" alt="todo list" src="https://user-images.githubusercontent.com/69181038/110134953-f80df800-7d9b-11eb-8ed4-a6923d098d59.jpg">
+
+
+
+## What I Learned
+
+ - How to share state within an app via props
+ - How to implement condtional rendering when an todo is completed
+ - How to return a new object within a function based component via the spread operator
+ - How to implement multiple useEffect hooks to execute component functions after a rerender
+ 
+
+## Tech Stack
+
+- CSS
+- React
+
+
+## License
+MIT © [Irving Henriquez](https://github.com/IrvHenri)
+
+
+
+
+### React README
+
+
+
+<details> 
+
+<summary> Click to Expand </summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +108,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+</details>
