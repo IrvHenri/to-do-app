@@ -6,7 +6,7 @@ A to-do list with a filter and local storage feature.
 https://todo-react-app-ih.herokuapp.com/
 
 ### Preview
-<img width="604" alt="todo list" src="https://user-images.githubusercontent.com/69181038/110134953-f80df800-7d9b-11eb-8ed4-a6923d098d59.jpg">
+<img width="604" alt="todo list" src="https://user-images.githubusercontent.com/69181038/110266195-4c2aff00-7f8b-11eb-99a0-f66ba9a60a91.PNG">
 
 
 
